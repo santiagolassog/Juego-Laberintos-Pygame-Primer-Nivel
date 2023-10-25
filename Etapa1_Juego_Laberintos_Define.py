@@ -1,3 +1,7 @@
+"""------------------------------------------------
+Created on Wed Oct 25 13:58:37 2023
+@author: Santiago Lasso
+------------------------------------------------"""
 import numpy as np
 import pygame
 from pygame.locals import *
