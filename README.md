@@ -38,7 +38,7 @@ https://santiagolasso.com/2023/10/23/juego-laberintos-pygame-nivel1/
 
 ## Créditos
 
-Este juego fue desarrollado por [Tu Nombre] como un proyecto de aprendizaje con Pygame en Python.
+Este juego fue desarrollado por [Santiago Lasso] como un proyecto de aprendizaje con Pygame en Python.
 
 ## Agradecimientos
 
