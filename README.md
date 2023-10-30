@@ -5,8 +5,8 @@
 ## Demostración
 ![Gif 3 - Movimientos Final Nivel](https://github.com/santiagolassog/Juego-Laberintos-Pygame-Primer-Nivel/assets/27078128/f2eb6bb3-94b5-435c-9d46-52331d7a98cb)
 
-Puedes encontrar el tutorial paso a paso en mi blog:
-https://santiagolasso.com/2023/10/23/juego-laberintos-pygame-nivel1/
+Puedes encontrar el tutorial paso a paso en mi [**blog**](https://santiagolasso.com/2023/10/23/juego-laberintos-pygame-nivel1/).
+
 
 ## Funcionalidades
 
